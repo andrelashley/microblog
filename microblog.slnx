@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MicroBlog.Core/MicroBlog.Core.csproj" />
+  <Project Path="MicroBlog.Web/MicroBlog.Web.csproj" />
+</Solution>
